@@ -5,7 +5,7 @@
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
-	"description": "Adding a Description to the package.json",
+	"description": "Adding-a-Description-to-the-package.json",
 	"scripts": {
 		"start": "node server.js"
 	},
