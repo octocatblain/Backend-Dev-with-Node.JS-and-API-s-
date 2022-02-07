@@ -1,11 +1,20 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Blain-Muema",
+	"version": "1.0.1",
+	"description": "description",
+	"keywords": [
+		"descriptive",
+		"related",
+		"freecodecamp",
+		"words"
+	],
+	"license": "BID",
 	"dependencies": {
-		"express": "^4.14.0"
+		"package-name": "moment",
+		"moment": "^2.29.1"
 	},
 	"main": "server.js",
-	"description": "Adding-a-Description-to-the-package.json",
 	"scripts": {
 		"start": "node server.js"
 	},
